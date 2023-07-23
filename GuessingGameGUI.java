@@ -10,6 +10,7 @@ public class GuessingGameGUI extends JFrame {
     private JLabel messageLabel;
     private JTextField inputField;
     private JButton guessButton;
+System.out.println("Just to see if this works!");
 
     public GuessingGameGUI() {
         // Initialize the game
